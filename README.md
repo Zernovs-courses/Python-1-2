@@ -119,7 +119,7 @@ geometric_lib
 
 ### Условие задачи
 
-1) Выполните команду git clone https://github.com/smartiqaorg/geometric_lib.
+1) Выполните команду git clone https://github.com/Zernovs-courses/geometric_lib.git.
 Она скопирует репозиторий к вам на компьютер.
 
 2) Создайте новую ветку с названием new_features и переключитесь на нее.
